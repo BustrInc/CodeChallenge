@@ -23,6 +23,7 @@ We respect your time and don't want you spending more 3 hours on your challenge.
 ## Challenge description
 - Create an web app where I can manage "Companies"
   - Each Company has a name, latitude, longitude
+  - Import `companies.json` as seed data (it's included in this repository)
   - I can create, edit, and delete companies
 - Create a page with a map of US that shows Companies that have been entered as pins on the map, with a list of the companies below
   - Let user enter a latitude, longitude, and radius that limits the list of companies shown to those only inside the circle specified by the params.
